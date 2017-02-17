@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>4.2.5.RELEASE</spring.version>
+		<spring.version>4.3.5.RELEASE</spring.version>
 		<spring.data.version>Hopper-SR2</spring.data.version>
 		<spring-asm.version>3.1.4.RELEASE</spring-asm.version>
 		<jdk.version>1.7</jdk.version>
@@ -22,7 +22,7 @@
 		<jsp-api.version>2.2</jsp-api.version>
 		<tiles.version>3.0.4</tiles.version>
 		<standard.version>1.1.2</standard.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.12</junit.version>
 		<!-- <java.el-api.version>3.0.0</java.el-api.version> -->
 
 		<java.el-api.version>3.0.0</java.el-api.version>
