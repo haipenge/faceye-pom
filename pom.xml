@@ -11,7 +11,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>4.3.6.RELEASE</spring.version>
-		<spring.data.version>Hopper-SR2</spring.data.version>
+		<spring.data.version>Ingalls-SR4</spring.data.version>
 		<spring-asm.version>3.1.4.RELEASE</spring-asm.version>
 		<jdk.version>1.7</jdk.version>
 		<jetty.version>9.0.2.v20130417</jetty.version>
