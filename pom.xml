@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>4.3.6.RELEASE</spring.version>
+		<spring.version>4.3.9.RELEASE</spring.version>
 		<spring.data.version>Ingalls-SR4</spring.data.version>
 		<spring-asm.version>3.1.4.RELEASE</spring-asm.version>
 		<jdk.version>1.7</jdk.version>
