@@ -27,6 +27,8 @@
 		<spring.version>5.0.4.RELEASE</spring.version>
 		<tiles.version>3.0.8</tiles.version>
 		<aspectj.version>1.8.13</aspectj.version>
+		<slf4j.version>1.7.25</slf4j.version>
+		<logback.version>1.2.3</logback.version>
 		<!-- <baidu.bccs.api.version>3.0.1</baidu.bccs.api.version> <joda-time.version>2.9.9</joda-time.version> -->
 	</properties>
 
@@ -130,6 +132,43 @@
     <artifactId>aspectjtools</artifactId>
     <version>${aspectj.version}</version>
 </dependency>
+
+<!-- 使用SLF4J和LogBack作为日志 -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>${slf4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>jcl-over-slf4j</artifactId>
+			<version>${slf4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-classic</artifactId>
+			<version>${logback.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-core</artifactId>
+			<version>${logback.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-access</artifactId>
+			<version>${logback.version}</version>
+		</dependency>
+		<dependency>
+		    <groupId>org.logback-extensions</groupId>
+		    <artifactId>logback-ext-spring</artifactId>
+		    <version>0.1.5</version>
+		</dependency>
 
 
 	</dependencies>
