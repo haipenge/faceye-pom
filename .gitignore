@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*/.classpath
 /*/*/.classpath
 /*/.project
@@ -36,3 +37,11 @@
 /build*.xml
 
 .idea
+=======
+.settings
+target
+.classpath
+.project
+.pydevproject
+.DS_Store
+>>>>>>> 288a4cc5b95959afc53900523ecfd9dc41c38d3b

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../faceye-feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-feature-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-feature-mongo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-security-manager-jpa/faceye-security-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-security-manager-jpa/faceye-security-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-security-manager-mongo/faceye-security-entity-mongo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-security-manager-mongo/faceye-security-manager-mongo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-security-web-mongo/faceye-security-web-entity-mongo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-security-web-mongo/faceye-security-web-manager-mongo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-stock/faceye-stock-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-stock/faceye-stock-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-util-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-weixin/faceye-weixin-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../faceye-weixin/faceye-weixin-manager" charset="UTF-8" />
+  </component>
+</project>
